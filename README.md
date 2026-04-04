@@ -1,6 +1,6 @@
 ## Who
 
-Dan, a.k.a. scalyhat. Engineer and yapper.
+scalyhat, a.k.a. Dan. Engineer and yapper.
 
 ## What
 
