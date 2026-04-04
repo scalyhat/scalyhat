@@ -1,22 +1,18 @@
-# Who
+## Who
 
-Dan, a.k.a. scalyhat
+Dan, a.k.a. scalyhat. Engineer and yapper.
 
-Engineer and yapper
-
-# What
+## What
 
 Done and ready to do again:
 - machine learning
 - backend engineering
 - devops
 
-Happy to assist with F(L)OSS
+Happy to assist with F(L)OSS.
+Willing to work for entities not involved in military operations.
 
-Willing to work for entities not involved in military operations
+## Why
 
-# Why
-
-This profile is for github-hosted projects and work
-
+This profile is for github-hosted projects and work.
 I do not keep personal projects here. Instead, see [codeberg :3](https://codeberg.org/scalyhat)
