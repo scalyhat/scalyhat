@@ -1,16 +1,22 @@
-## Hi there 👋
+# Who
 
-<!--
-**scalyhat/scalyhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dan, a.k.a. scalyhat
 
-Here are some ideas to get you started:
+Engineer and yapper
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# What
+
+Done and ready to do again:
+- machine learning
+- backend engineering
+- devops
+
+Happy to assist with F(L)OSS
+
+Willing to work for entities not involved in military operations
+
+# Why
+
+This profile is for github-hosted projects and work
+
+I do not keep personal projects here. Instead, see [codeberg :3](https://codeberg.org/scalyhat)
