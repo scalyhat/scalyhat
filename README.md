@@ -14,5 +14,5 @@ Willing to work for entities not involved in military operations.
 
 ## Why
 
-This profile is for github-hosted projects and work.
-I do not keep personal projects here. Instead, see [codeberg :3](https://codeberg.org/scalyhat)
+This profile is for Github-hosted projects and work.
+I do not keep personal projects here. Instead, see [Codeberg :3](https://codeberg.org/scalyhat)
