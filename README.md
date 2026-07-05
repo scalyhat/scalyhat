@@ -1,6 +1,6 @@
 ## Who
 
-scalyhat, a.k.a. Dan/Juni/liskovelho. Engineer and yapper.
+scalyhat, a.k.a. Dan/Juniper/liskovelho. Engineer and yapper.
 
 ## What
 
